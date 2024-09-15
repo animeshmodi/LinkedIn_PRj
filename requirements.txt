@@ -3,4 +3,5 @@ python-dotenv
 beautifulsoup4
 pdfminer.six
 transformers
-groq
+langchain_community  # Make sure this package is available
+groq  # Ensure this is a valid package
