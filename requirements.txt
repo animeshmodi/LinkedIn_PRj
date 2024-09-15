@@ -1,3 +1,10 @@
 flask
 PyPDF2
 requests
+streamlit
+dotenv
+pdfminer.six
+beautifulsoup4
+transformers
+langchain-community
+groq
