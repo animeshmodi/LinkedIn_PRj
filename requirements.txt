@@ -1,10 +1,6 @@
-flask
-PyPDF2
-requests
 streamlit
-dotenv
-pdfminer.six
+python-dotenv
 beautifulsoup4
+pdfminer.six
 transformers
-langchain-community
 groq
